@@ -237,7 +237,7 @@ class xploder(scene.Scene):
 			self.mainview['timelabel'].text='T = '+str(self.deltat)
 
 if __name__=='__main__':
-	v=ui.load_view('xplodr.pyui')
+	v=ui.load_view('xplodrrr.pyui')
 	v.name='Xplodrrr Beta'
 	v.present('full_screen')
 	xscene=v['mainscene'].scene
