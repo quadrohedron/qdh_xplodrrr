@@ -1,3 +1,3 @@
 # xplodrrr
 
-Simple physical engine with collisions. For Pythonista.
+Simple physical engine with collisions. Made for Pythonista.
